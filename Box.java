@@ -7,6 +7,8 @@ public class Box {
 		width=20;
 		depth=30;
 	}
+
+//constustor
 	public Box (double ht,double wt,double dpt) {//WITH ARG PASSING VALUES
 		height=ht;
 		width=wt;
